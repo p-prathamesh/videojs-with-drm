@@ -1,0 +1,9 @@
+.video-js {
+    width: 600px;
+    height: 300px;
+}
+body{
+    padding: 0;
+    margin: 10% auto;
+    width: 600px;
+}
